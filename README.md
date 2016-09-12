@@ -1,13 +1,13 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Test Repo (Demo)
-=======
-[![Build Status](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d9/issues/new) 
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo)
 
 #### This is only a test. Become familiar with the workflow for your lab assignments!
 
 Get some practice in :smiley:
 
 1. Fork this repository.  
-2. Copy the resulting git link. 
+
+2. Copy the resulting git link.
 3. `git clone` this fork into your `my-forked-repos` directory (review setup [instructions](https://github.com/codefellows/seattle-301d7/blob/master/README.md#create-and-setup-your-301-directory-structure)).  
 4. `cd` into this repository.  
 5. Immediately `git checkout -b your-name` (ex: git checkout -b rick-patci)  
@@ -24,15 +24,7 @@ Get some practice in :smiley:
 13. `git push origin` your-name
 13. Head over to GitHub to make a PR from the branch with your name.
 14. This will take you to a comment section that has some "bolierplate" (pre-strutured) comments. It is your task to fill in the blanks and follow the instructions :smiley:
-15. Once finished with the PR comments section, submit the PR, copy the resulting link that you see in your URL path at the top of the browser window after creating the Pull Request (to submit in Canvas). 
-16. Now let the test finish, and see what the result is! 
-17. If you'd like to see an example, finished PR, check out mine:     
-https://github.com/codefellows-seattle-301d7/00-test-repo-demo/pull/1
-
-> Before we wrap up, notice the orange "Ask For Help!" icon button next to the "Build Status" at the beginning of this README file? If you're ever stuck in lab (after the 15 minute rule :wink:), click on this icon and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
-
-Try it out! Create a test issue now to get a feel for how it works (the orange button next to the build passing icon). :sunglasses:  
-Here's an example test issue I created:  
-https://github.com/codefellows/seattle-301d7/issues/1
+15. Once finished with the PR comments section, submit the PR, copy the resulting link that you see in your URL path at the top of the browser window after creating the Pull Request (to submit in Canvas).
+16. Now let the test finish, and see what the result is!
 
 **When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**
