@@ -1,5 +1,5 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Test Repo (Demo)
-[![Build Status](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo)
+[![Build Status](https://travis-ci.org/codefellows-portland-301d6/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-portland-301d6/00-test-repo-demo)
 
 #### This is only a test. Become familiar with the workflow for your lab assignments!
 
