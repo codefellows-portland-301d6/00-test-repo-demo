@@ -27,4 +27,4 @@ Get some practice in :smiley:
 15. Once finished with the PR comments section, submit the PR, copy the resulting link that you see in your URL path at the top of the browser window after creating the Pull Request (to submit in Canvas).
 16. Now let the test finish, and see what the result is!
 
-**When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**
+**When finished, submit to Canvas the links to your PR**
